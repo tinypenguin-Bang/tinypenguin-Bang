@@ -1,7 +1,7 @@
 ### JooHyung Bang
 
 # 🔭 Career
-Expected Receiving B.S. degrees, in Mechanical Engineering from Hanyang University, Seoul, Korea, in 2021.  
+Expected Receiving B.S. degree, in Mechanical Engineering from Hanyang University, Seoul, Korea, in 2021.  
 NVIDIA Developer Program Member, NVIDIA Corporation, in 2021.  
 Joined the MIND LAB, Hayang University, Seoul, Korea, in 2021.  
 
