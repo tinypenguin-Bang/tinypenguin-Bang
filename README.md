@@ -1,5 +1,5 @@
 ### JooHyung Bang
-
+[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/tinypenguin-Bang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 # 🔭 Career
 Expected Receiving B.S. degree, in Mechanical Engineering from Hanyang University, Seoul, Korea, in 2021.  
 NVIDIA Developer Program Member, NVIDIA Corporation, in 2021.  
@@ -17,7 +17,7 @@ Power Engineering School Summer Camp, kepco-enc, in 2019
 * Surface Structure  
 * Deep Learning  
 
-[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={https://github.com/tinypenguin-Bang(url)}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinypenguin-Bang&show_icons=true&theme=tokyonight)
 
 # 💬 Contact
 * https://microsystemhy.wixsite.com/mind/members
