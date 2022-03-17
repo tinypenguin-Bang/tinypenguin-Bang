@@ -12,7 +12,7 @@ Power Engineering School Summer Camp, kepco-enc, in 2019
 
 # 🌱 Interest
 * MEMS Sensors  
-* Microfluids  
+* Micro/Nano engineering
 * Anomaly Detection  
 * Surface Structure  
 * Deep Learning  
